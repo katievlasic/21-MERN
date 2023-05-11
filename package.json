@@ -24,5 +24,8 @@
   "bugs": {
     "url": "https://github.com/katievlasic/21-MERN/issues"
   },
-  "homepage": "https://github.com/katievlasic/21-MERN#readme"
+  "homepage": "https://github.com/katievlasic/21-MERN#readme",
+  "dependencies": {
+    "mongodb": "^5.5.0"
+  }
 }
