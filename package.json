@@ -1,6 +1,9 @@
 {
   "name": "21-mern",
   "version": "1.0.0",
+  "engines": {
+    "node": "16.0.0"
+  },
   "description": "converting it from RESTful API practices to a GraphQL API",
   "main": "index.js",
   "scripts": {
